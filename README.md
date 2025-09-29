@@ -21,16 +21,16 @@ A console game in C++ where the player (ODD) plays against the computer (EVEN) b
 - **Best Results**: Review of the best results
 
 ## Project structure
-```
+```bash
 OddEven/
-├── CMakeLists.txt      # Assembly file
+├── CMakeLists.txt    # Assembly file
 └── src/
-    ├── main.cpp        # Main program file
-    ├── Display.h/.cpp  # Class for displaying menus and results
-    ├── Player.h/.cpp   # Player class
-    ├── Array2D.h/.cpp  # Matrix class
-    ├── MyGame.h/.cpp   # The main logic of the game
-    └── utils.h/.cpp    # Support functions
+    ├── main.cpp          # Main program file
+    ├── Display.h/.cpp    # Class for displaying menus and results
+    ├── Player.h/.cpp     # Player class
+    ├── Array2D.h/.cpp    # Matrix class
+    ├── MyGame.h/.cpp     # The main logic of the game
+    └── utils.h/.cpp      # Support functions
 ```
 
 ## Installation
