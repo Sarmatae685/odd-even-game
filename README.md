@@ -34,7 +34,7 @@ OddEven/
 ```
 
 ## Installation
-```
+```bash
 git clone https://github.com/Sarmatae685/odd-even-game.git
 ```
 
