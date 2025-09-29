@@ -1,0 +1,8 @@
+build/
+*.exe
+*.o
+.vscode/
+.idea/
+cmake-build-*/
+Pausedgame.txt
+Highscores.txt
