@@ -1,6 +1,9 @@
 # Odd Even Game
 A console game in C++ where the player (ODD) plays against the computer (EVEN) by filling a matrix with the numbers 0 and 1.
 
+> [!NOTE]
+> Project was created in May 2022, but everything was messed up in were in one `.cpp` file, so it was refactored and upgraded in Semptember 2025.
+
 ## Rules
 
 - Player (ODD Player) and computer (EVEN Player) take turns filling the NxN matrix with numbers 0 or 1.
